@@ -1,0 +1,37 @@
+_repo: Modern-Spanish-Lyrics_16059
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Hills, E. C. (Elijah Clarence)
+    alias: Hills, Elijah Clarence
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '6455'
+    url: http://www.gutenberg.org/2009/agents/6455
+  - agent_name: Morley, S. Griswold (Sylvanus Griswold)
+    alias: Morley, Sylvanus Griswold
+    birthdate: 1878
+    deathdate: 1970
+    gutenberg_agent_id: '6468'
+    url: http://www.gutenberg.org/2009/agents/6468
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16059'
+language:
+- es
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Textbooks for foreign speakers -- English'
+- !lcsh 'Spanish poetry'
+- !lcc 'PQ'
+title: Modern Spanish Lyrics
+url: http://www.gutenberg.org/ebooks/16059

@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6468'
     url: http://www.gutenberg.org/2009/agents/6468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16059#Modern-Spanish-Lyrics
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2005-06-14'
 gutenberg_type: Text
